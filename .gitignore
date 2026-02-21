@@ -26,3 +26,17 @@ __pycache__/
 # model files
 *.pth
 *.pkl
+
+# datasets
+**/cifar_100/
+**/*.tar.gz
+
+# pretrained weights
+*.pth
+
+# python cache
+__pycache__/
+*.pyc
+
+# mac
+.DS_Store
