@@ -45,8 +45,7 @@ Module 3 -- Data Management in PyTorch\
 https://www.youtube.com/watch?v=WVRkcu8gA7k&list=PLFNc0n9NuVGqDUHUbJ5KTq-0NsO2F6U1o&index=2
 
 Module 4 -- Core Neural Network Components\
-https://www.youtube.com/watch?v=WVRkcu8gA7k&list=PLFNc0n9NuVGqDUHUbJ5KTq-0NsO2F6U1o&index=2
-
+https://www.youtube.com/watch?v=KD1DZBGt9yQ&list=PLFNc0n9NuVGrUI-jlGWo9ewrDQO23kvSL&index=2
 ## Course Reference
 
 PyTorch for Deep Learning Professional Certificate\
