@@ -6,3 +6,7 @@ flower_data/
 corrupted_flower_data/
 *.jpg
 *.mat
+
+# datasets
+**/cifar_100/
+**/*.tar.gz
