@@ -139,4 +139,10 @@ This repository demonstrates the ability to:
 -   Develop deep learning systems from concept to deployment\
 -   Maintain clean data and artifact management\
 -   Apply best practices in machine learning engineering\
--   Build scalable and reproducible AI workflows
+-   Build scalable and reproducible AI workflows 
+
+## Course Reference
+
+PyTorch for Deep Learning Professional Certificate\
+https://www.coursera.org/professional-certificates/pytorch-for-deep-learning
+
