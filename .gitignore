@@ -10,3 +10,19 @@ corrupted_flower_data/
 # datasets
 **/cifar_100/
 **/*.tar.gz
+
+# datasets
+dataset/
+**/dataset/
+**/data/
+**/raw/
+**/FashionMNIST/
+
+# python junk
+__pycache__/
+*.pyc
+.DS_Store
+
+# model files
+*.pth
+*.pkl
